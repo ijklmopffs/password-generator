@@ -1,0 +1,11 @@
+#root {
+  max-width: 1440px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 2rem;
+  font-family: "JetBrains Mono", monospace;
+}
+
+body {
+  background-color: #24232c;
+}
